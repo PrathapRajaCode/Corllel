@@ -91,7 +91,7 @@ class _MetaWorldScreenState extends State<MetaWorldScreen> {
                           //   width: MediaQuery.sizeOf(context).width / 2,
                           // ),
                           Text(
-                            ' the future of',
+                            'Explore the future of',
                             style: GoogleFonts.montaga(
                                 color: Colors.white,
                                 fontSize:
